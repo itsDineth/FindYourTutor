@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 	session_start();
 	//header( 'Cache-Control: private, max-age=10800, pre-check=10800' );
 ?>
